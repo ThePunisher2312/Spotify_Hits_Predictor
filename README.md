@@ -1,1 +1,2 @@
 # Spotify_Hits_Predictor
+In this study, we tackled the Hit Song Science challenge: forecasting Billboard Hot 100 hits. We curated a dataset of around 4,000 songs, extracting audio attributes from Spotify Web API. Achieving about 75% accuracy on the validation set, we utilized five machine-learning algorithms to predict Billboard success. The standout performers were Logistic Regression and a Neural Network with a single hidden layer.
